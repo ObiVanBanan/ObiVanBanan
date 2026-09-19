@@ -34,13 +34,6 @@ Hybrid retrieval + LLM reranking for industrial product matching.
 
 ---
 
-### [rag_steel](https://github.com/ObiVanBanan/rag_steel)
-Production-oriented semantic search for industrial product analogues.
-
-**Stack:** `BGE-M3` `Qdrant` `Hybrid Search` `FastAPI`
-
----
-
 ### [mirrolla](https://github.com/ObiVanBanan/mirrolla)
 AI analytics assistant with planning, HITL and isolated code execution.
 
