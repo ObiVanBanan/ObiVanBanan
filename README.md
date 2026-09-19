@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="ObiVanBanan Production">
+</p>
 
-<!--
-**ObiVanBanan/ObiVanBanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 ObiVanBanan
 
-Here are some ideas to get you started:
+**AI Engineer** building production-oriented LLM systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`LLM Systems` • `RAG` • `Retrieval` • `Agents` • `Evals` • `Local LLMs`
+
+> research → prototype → eval → break it → fix it → production
+
+---
+
+## About
+
+I build AI systems that are not just demos, but things that can actually be measured, tested and shipped.
+
+Currently interested in:
+- autonomous coding & research harnesses
+- hybrid retrieval and reranking
+- evaluation-driven AI development
+- local LLM inference
+- production AI architecture
+
+---
+
+## Featured Projects
+
+### [rag_trend](https://github.com/ObiVanBanan/rag_trend)
+Hybrid retrieval + LLM reranking for industrial product matching.
+
+**Stack:** `Qdrant` `BM25` `RRF` `LLM` `Evaluation Harness`
+
+---
+
+### [rag_steel](https://github.com/ObiVanBanan/rag_steel)
+Production-oriented semantic search for industrial product analogues.
+
+**Stack:** `BGE-M3` `Qdrant` `Hybrid Search` `FastAPI`
+
+---
+
+### [mirrolla](https://github.com/ObiVanBanan/mirrolla)
+AI analytics assistant with planning, HITL and isolated code execution.
+
+**Stack:** `LangGraph` `FastAPI` `vLLM` `Docker`
+
+---
+
+## Current Focus
+
+- building useful AI systems
+- making agents more reliable
+- improving retrieval quality
+- turning experiments into production workflows
+
+---
+
+## Tech
+
+`Python` • `FastAPI` • `LangGraph` • `Qdrant` • `Docker` • `PyTorch` • `Transformers` • `vLLM`
+
+---
+
+`ObiVanBanan Production™` — questionable ideas, measurable experiments, occasionally production.
