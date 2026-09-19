@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="ObiVanBanan Production">
-</p>
-
 # 👾 ObiVanBanan
 
 **AI Engineer** building production-oriented LLM systems.
@@ -23,37 +19,9 @@ Currently interested in:
 - local LLM inference
 - production AI architecture
 
----
-
-## Featured Projects
-
-### [rag_trend](https://github.com/ObiVanBanan/rag_trend)
-Hybrid retrieval + LLM reranking for industrial product matching.
-
-**Stack:** `Qdrant` `BM25` `RRF` `LLM` `Evaluation Harness`
-
----
-
-### [mirrolla](https://github.com/ObiVanBanan/mirrolla)
-AI analytics assistant with planning, HITL and isolated code execution.
-
-**Stack:** `LangGraph` `FastAPI` `vLLM` `Docker`
-
----
-
-## Current Focus
-
-- building useful AI systems
-- making agents more reliable
-- improving retrieval quality
-- turning experiments into production workflows
-
----
-
-## Tech
-
-`Python` • `FastAPI` • `LangGraph` • `Qdrant` • `Docker` • `PyTorch` • `Transformers` • `vLLM`
-
----
 
 `ObiVanBanan Production™` — questionable ideas, measurable experiments, occasionally production.
+
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="ObiVanBanan Production">
+</p>
